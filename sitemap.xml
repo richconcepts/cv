@@ -2,16 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>richconcepts.design</loc>
-	<lastmod>2025-01-24</lastmod>
+	<lastmod>2025-01-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
 	<image:loc>richconcepts.design/img/rc-hero.jpg</image:loc>
-	<image:title>rc hero</image:title>
+	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>richconcepts.design/img/rc-hero.webp</image:loc>
-	<image:title>rc hero</image:title>
+	<image:title>placeholder image</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/ny-times.png</image:loc>
+	<image:title>ny times</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/ny-times.webp</image:loc>
+	<image:title>ny times</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/forbes.png</image:loc>
+	<image:title>forbes</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/forbes.webp</image:loc>
+	<image:title>forbes</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/wired.png</image:loc>
+	<image:title>wired</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/wired.webp</image:loc>
+	<image:title>wired</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/guardian.png</image:loc>
+	<image:title>guardian</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/guardian.webp</image:loc>
+	<image:title>guardian</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/aolytix_white_hor_logo.svg</image:loc>
+	<image:title>ny times</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>richconcepts.design/aolytix-case-study/</loc>
+	<lastmod>2025-01-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
 </url>
 </urlset>
