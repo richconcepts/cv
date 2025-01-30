@@ -7,11 +7,11 @@
 	<priority>1.0</priority>
 	<image:image>
 	<image:loc>richconcepts.design/img/rc-hero.jpg</image:loc>
-	<image:title>placeholder image</image:title>
+	<image:title>rc hero</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>richconcepts.design/img/rc-hero.webp</image:loc>
-	<image:title>placeholder image</image:title>
+	<image:title>rc hero</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>richconcepts.design/img/ny-times.png</image:loc>
@@ -51,7 +51,13 @@
 	</image:image>
 </url>
 <url>
-	<loc>richconcepts.design/aolytix-case-study/</loc>
+	<loc>richconcepts.design/work-aolytix/</loc>
+	<lastmod>2025-01-29</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>richconcepts.design/about/</loc>
 	<lastmod>2025-01-29</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
