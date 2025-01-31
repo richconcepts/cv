@@ -14,35 +14,19 @@
 	<image:title>rc hero</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>richconcepts.design/img/ny-times.png</image:loc>
-	<image:title>ny times</image:title>
+	<image:loc>richconcepts.design/img/centers-for-medicare-medicaid-logo.svg</image:loc>
+	<image:title>cms</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>richconcepts.design/img/ny-times.webp</image:loc>
-	<image:title>ny times</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>richconcepts.design/img/forbes.png</image:loc>
+	<image:loc>richconcepts.design/img/hawaiian-telcom-logo.svg</image:loc>
 	<image:title>forbes</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>richconcepts.design/img/forbes.webp</image:loc>
-	<image:title>forbes</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>richconcepts.design/img/wired.png</image:loc>
+	<image:loc>richconcepts.design/img/toyota-logo.svg</image:loc>
 	<image:title>wired</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>richconcepts.design/img/wired.webp</image:loc>
-	<image:title>wired</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>richconcepts.design/img/guardian.png</image:loc>
-	<image:title>guardian</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>richconcepts.design/img/guardian.webp</image:loc>
+	<image:loc>richconcepts.design/img/hawaiian-airlines-logo.svg</image:loc>
 	<image:title>guardian</image:title>
 	</image:image>
 	<image:image>
