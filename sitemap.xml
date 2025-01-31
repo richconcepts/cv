@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>richconcepts.design</loc>
-	<lastmod>2025-01-30</lastmod>
+	<lastmod>2025-01-31</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -34,27 +34,39 @@
 	<image:title>ny times</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>richconcepts.design/img/img-resources.svg</image:loc>
+	<image:loc>richconcepts.design/img/aolytix-feature-img.png</image:loc>
 	<image:title>img resources</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>richconcepts.design/img/rc-icon.png</image:loc>
+	<image:loc>richconcepts.design/img/aolytix-feature-img.webp</image:loc>
+	<image:title>img resources</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/aolytix-card.png</image:loc>
 	<image:title>rc icon</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>richconcepts.design/img/rc-icon.webp</image:loc>
+	<image:loc>richconcepts.design/img/aolytix-card.webp</image:loc>
 	<image:title>rc icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/aolytix-toolbar.png</image:loc>
+	<image:title>aolytix toolbar</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/aolytix-toolbar.webp</image:loc>
+	<image:title>aolytix toolbar</image:title>
 	</image:image>
 </url>
 <url>
 	<loc>richconcepts.design/work-aolytix/</loc>
-	<lastmod>2025-01-30</lastmod>
+	<lastmod>2025-01-31</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>richconcepts.design/about/</loc>
-	<lastmod>2025-01-30</lastmod>
+	<lastmod>2025-01-31</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
