@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>richconcepts.design</loc>
-	<lastmod>2025-01-31</lastmod>
+	<lastmod>2025-02-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -60,14 +60,174 @@
 </url>
 <url>
 	<loc>richconcepts.design/work-aolytix/</loc>
-	<lastmod>2025-01-31</lastmod>
+	<lastmod>2025-02-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>richconcepts.design/img/download-hero-img.png</image:loc>
+	<image:title>download hero img</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/download-hero-img.webp</image:loc>
+	<image:title>download hero img</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/without@512p-25fps.gif</image:loc>
+	<image:title>without@512p 25fps</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/ao-research-methods.png</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/ao-research-methods.webp</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/aolytix-personas.svg</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/empathy-map.png</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/empathy-map.webp</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/journey-map.png</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/journey-map.webp</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/simplify2.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/relations2.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/actions2.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/security2.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/wireframe-explorer.svg</image:loc>
+	<image:title>wireframe explorer</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/wireframe-resource.svg</image:loc>
+	<image:title>wireframe resource</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/wireframe-panel.svg</image:loc>
+	<image:title>wireframe resource</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/wireframe-security.svg</image:loc>
+	<image:title>wireframe explorer</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/design-system3.png</image:loc>
+	<image:title>design system2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/design-system3.webp</image:loc>
+	<image:title>design system2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/base-components.png</image:loc>
+	<image:title>67251e2cd9fce42fb83ef713_Cloud_Security Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/base-components.webp</image:loc>
+	<image:title>67251e2cd9fce42fb83ef713_Cloud_Security Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/complex-components.png</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/complex-components.webp</image:loc>
+	<image:title>ao research methods</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide1.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide1.webp</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide2.2.png</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide2.2.webp</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide3.png</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide3.webp</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide4.png</image:loc>
+	<image:title>slide4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/slide4.webp</image:loc>
+	<image:title>slide4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/banner1.png</image:loc>
+	<image:title>banner1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/banner1.webp</image:loc>
+	<image:title>banner1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/banner2.png</image:loc>
+	<image:title>banner2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/banner2.webp</image:loc>
+	<image:title>banner2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/Screenshot%202025-02-13%20at%204.39.29 AM.jpg</image:loc>
+	<image:title>aolytix website</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/Screenshot%202025-02-13%20at%204.39.29 AM.webp</image:loc>
+	<image:title>aolytix website</image:title>
+	</image:image>
 </url>
 <url>
 	<loc>richconcepts.design/about/</loc>
-	<lastmod>2025-01-31</lastmod>
+	<lastmod>2025-02-13</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>richconcepts.design/img/rgarcia-2023.jpg</image:loc>
+	<image:title>rgarcia 2023</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>richconcepts.design/img/rgarcia-2023.webp</image:loc>
+	<image:title>rgarcia 2023</image:title>
+	</image:image>
 </url>
 </urlset>
